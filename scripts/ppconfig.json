@@ -135,11 +135,11 @@
         "safeArea": "all"
     },
     "android": {
-        "name": "PakePlus",
-        "showName": "PakePlus",
-        "version": "0.0.1",
-        "webUrl": "https://juejin.cn/",
-        "id": "com.pakeplus.android",
+        "name": "AlasRemoteControl",
+        "showName": "Alas远程控制",
+        "version": "1.0.0",
+        "webUrl": "https://app.hk1.azurlane.cloud/vpuidl180sfy",
+        "id": "com.alasremote.app",
         "icon": "./app-icon.png",
         "input": "./app-icon.png",
         "output": "./res",
