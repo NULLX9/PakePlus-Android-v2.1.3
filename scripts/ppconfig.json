@@ -135,11 +135,11 @@
         "safeArea": "all"
     },
     "android": {
-        "name": "PakePlus",
-        "showName": "PakePlus",
-        "version": "0.0.1",
-        "webUrl": "https://juejin.cn/",
-        "id": "com.pakeplus.android",
+        "name": "biligamewiki",
+        "showName": "碧蓝航线wiki",
+        "version": "1.0.0",
+        "webUrl": "https://wiki.biligame.com/blhx/%E9%A6%96%E9%A1%B5",
+        "id": "com.biligamewiki.app",
         "icon": "./app-icon.png",
         "input": "./app-icon.png",
         "output": "./res",
